@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nikunj0Patel
+- 👋 Hi, I’m @NikunjPatel
 - 👀 I’m interested in game developing
 - 🌱 I’m currently learning python
 - 📫 How to reach me Email:- yash.patel2001@gmail.com
